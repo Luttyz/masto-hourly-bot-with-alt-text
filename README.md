@@ -16,8 +16,9 @@ This script relies on the following Python packages :<br>
 
 Setup is pretty easy, this guide assumes you already have your Mastodon bot account and access token in place, **and a web-server that can be publicly accessed** *if you want to use the automated alt-text tool*.
 <br> If you haven't, make an account on any bot-friendly server, and make an app in your account's setting (which can be found at https://instance.example/settings/applications). As for the web-server part, there are a lot of guides, but there is an alt-text-less version of the script if you do not want to bother.
-> **Warning**<br>
-> The access token will change whenever you log-in to your bot's account, make sure to change it back in your script's file if you do.
+
+> [!NOTE]
+> It seems that the access token will change whenever you log-in to your bot's account, make sure to change it back in your script's file if you do.
 
 Once you are ready, download the `capybot.py` (or capybot_no_alt_text.py) script :
 * For the no alt-text variant : simply replace the Mastodon access token that is located at lines 60, and set another image API (located at line 9) if you want something else than capybaras. And voilà!
