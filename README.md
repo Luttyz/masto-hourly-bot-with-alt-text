@@ -32,7 +32,7 @@ Once you are ready, download the `capybot.py` (or capybot_no_alt_text.py) script
 
 # Acknowledgements
 
-**In case of questions : contact <a href="https://oomfie.city/@luttyz">@luttyz​@oomfie.city</a> or <a href="https://matrix.to/#/@luttyz:birdchat.ml">@luttyz:birdchat.ml</a>** 
+**In case of questions : contact <a href="https://oomfie.city/@luttyz">@luttyz​@oomfie.city</a>.**
 
 Thanks to that one school friend who is obsessed with capybaras, TinyFox for the awesome API, Vercel for the free and publicly accessible instance of CLIP-2, and Microsoft for making Bing AI free lol.
 <br> This script is licensed under the WTFPL, just do whatever the fuck you want with it. :blobfoxhappy:
