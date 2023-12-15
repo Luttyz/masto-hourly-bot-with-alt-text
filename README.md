@@ -1,8 +1,8 @@
 # Mastodon hourly animal bot (with alt text!)
 
-This Github repo contains the very simple code used by the <a rel="me" href="https://masto.ml/@hourlycapy">@hourlycapy​@masto.ml</a> Mastodon bot, it is *somewhat* modular as it can be easily edited to send any images that can be accessed through TinyFox's APIs. This should also be pretty easy code as I am still a beginner with Python, so even if you're a beginner this should still be easy to understand (even if it's very messy!).
+This Github repo contains the very simple code used by the <a rel="me" href="https://oomfie.city/@hourlycapy">@hourlycapy​@oomfie.city</a> Mastodon bot, it is *somewhat* modular as it can be easily edited to send any images that can be accessed through TinyFox's APIs. This should also be pretty easy code as I am still a beginner with Python, so even if you're a beginner this should still be easy to understand (even if it's very messy!).
 
-Check out a running example of this code at <a href="https://masto.ml/@hourlycapy">@hourlycapy​@masto.ml</a>.
+Check out a running example of this code at <a href="https://oomfie.city/@hourlycapy">@hourlycapy​@oomfie.city</a>.
 
 # Dependencies
 
@@ -32,7 +32,7 @@ Once you are ready, download the `capybot.py` (or capybot_no_alt_text.py) script
 
 # Acknowledgements
 
-**In case of questions : contact <a href="https://masto.ml/@luttyz">@luttyz​@masto.ml</a> or <a href="https://matrix.to/#/@luttyz:birdchat.ml">@luttyz:birdchat.ml</a>** 
+**In case of questions : contact <a href="https://oomfie.city/@luttyz">@luttyz​@oomfie.city</a> or <a href="https://matrix.to/#/@luttyz:birdchat.ml">@luttyz:birdchat.ml</a>** 
 
 Thanks to that one school friend who is obsessed with capybaras, TinyFox for the awesome API, Vercel for the free and publicly accessible instance of CLIP-2, and Microsoft for making Bing AI free lol.
 <br> This script is licensed under the WTFPL, just do whatever the fuck you want with it. :blobfoxhappy:
